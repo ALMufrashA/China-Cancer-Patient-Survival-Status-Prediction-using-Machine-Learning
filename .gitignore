@@ -1,8 +1,8 @@
 App.py
-Deep Learning(Mini Project2)
-main
-Multinomial NB and vectorizer
-Scaling
+Deep Learning(Mini Project2).ipynb
+main.py
+Multinomial NB and vectorizer.ipynb
+Scaling.pkl
 Spam Classification Model.pkl
 Teleco-Customer-Churn.h5
 count_vectorizer.pkl  
